@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\QLDA\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QLDA\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\BUS.dll
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\BUS.pdb
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\DAL.dll
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\DTO.dll
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\DAL.pdb
+C:\Users\HP\source\repos\QLDA\BUS\bin\Debug\DTO.pdb
+C:\Users\HP\source\repos\QLDA\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HP\source\repos\QLDA\BUS\obj\Debug\BUS.dll
+C:\Users\HP\source\repos\QLDA\BUS\obj\Debug\BUS.pdb

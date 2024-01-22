@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TenDA" msprop:Generator_UserColumnName="TenDA" msprop:Generator_ColumnPropNameInTable="TenDAColumn" msprop:Generator_ColumnPropNameInRow="TenDA" msprop:Generator_ColumnVarNameInTable="columnTenDA" type="xs:string" minOccurs="0" />
+              <xs:element name="SoGD" msprop:Generator_UserColumnName="SoGD" msprop:Generator_ColumnPropNameInTable="SoGDColumn" msprop:Generator_ColumnPropNameInRow="SoGD" msprop:Generator_ColumnVarNameInTable="columnSoGD" type="xs:int" minOccurs="0" />
+              <xs:element name="TenNV" msprop:Generator_UserColumnName="TenNV" msprop:Generator_ColumnPropNameInTable="TenNVColumn" msprop:Generator_ColumnPropNameInRow="TenNV" msprop:Generator_ColumnVarNameInTable="columnTenNV" type="xs:string" minOccurs="0" />
+              <xs:element name="Ten_GD" msprop:Generator_ColumnPropNameInRow="Ten_GD" msprop:Generator_ColumnPropNameInTable="Ten_GDColumn" msprop:Generator_ColumnVarNameInTable="columnTen_GD" msprop:Generator_UserColumnName="Ten_GD" type="xs:string" minOccurs="0" />
+              <xs:element name="DanhGia" msprop:Generator_ColumnPropNameInRow="DanhGia" msprop:Generator_ColumnPropNameInTable="DanhGiaColumn" msprop:Generator_ColumnVarNameInTable="columnDanhGia" msprop:Generator_UserColumnName="DanhGia" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
